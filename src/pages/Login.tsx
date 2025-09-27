@@ -147,7 +147,7 @@ const Login = () => {
 
         <div className="mt-8 text-center">
           <p className="text-primary-foreground/80 text-sm">
-            © 2025 Panchkarma Management | Made with ❤️ Ayurveda
+            © 2025 Panchkarma Management | Made with Ayurveda
           </p>
         </div>
       </div>
